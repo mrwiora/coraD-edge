@@ -11,7 +11,7 @@ This software is intended to be out-of-the-box ansible ready, so operations can 
 THANKS to @michaelrommel for his always open ear and sharing his fascination about node.js :)
 
 ```
-architecture picture - highlighted edge
+![coraD-edge](readme_resources/coraD-edge.png)
 ```
 
 =========	
